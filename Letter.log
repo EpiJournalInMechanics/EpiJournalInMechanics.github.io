@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.4.10)  12 MAR 2018 08:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.4.10)  12 MAR 2018 08:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -656,12 +656,24 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (c:/texlive/2016/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
 ))
+(c:/texlive/2016/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box29
+\beforetitleunit=\skip47
+\aftertitleunit=\skip48
+\ttl@plus=\dimen115
+\ttl@minus=\dimen116
+\ttl@toksa=\toks25
+\titlewidth=\dimen117
+\titlewidthlast=\dimen118
+\titlewidthfirst=\dimen119
+)
 (c:/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip47
-\enit@outerparindent=\dimen115
-\enit@toks=\toks25
-\enit@inbox=\box29
+\labelindent=\skip49
+\enit@outerparindent=\dimen120
+\enit@toks=\toks26
+\enit@inbox=\box30
 \enitdp@description=\count103
 )
 (c:/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
@@ -677,15 +689,15 @@ Package ifvtex Info: VTeX not detected.
 \Gm@cnth=\count104
 \Gm@cntv=\count105
 \c@Gm@tempcnt=\count106
-\Gm@bindingoffset=\dimen116
-\Gm@wd@mp=\dimen117
-\Gm@odd@mp=\dimen118
-\Gm@even@mp=\dimen119
-\Gm@layoutwidth=\dimen120
-\Gm@layoutheight=\dimen121
-\Gm@layouthoffset=\dimen122
-\Gm@layoutvoffset=\dimen123
-\Gm@dimlist=\toks26
+\Gm@bindingoffset=\dimen121
+\Gm@wd@mp=\dimen122
+\Gm@odd@mp=\dimen123
+\Gm@even@mp=\dimen124
+\Gm@layoutwidth=\dimen125
+\Gm@layoutheight=\dimen126
+\Gm@layouthoffset=\dimen127
+\Gm@layoutvoffset=\dimen128
+\Gm@dimlist=\toks27
 )
 (c:/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
@@ -738,7 +750,7 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 (c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen124
+\@linkdim=\dimen129
 \Hy@linkcounter=\count107
 \Hy@pagecounter=\count108
 
@@ -767,10 +779,10 @@ Package hyperref Info: Bookmarks ON on input line 4751.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5104.
-\XeTeXLinkMargin=\dimen125
+\XeTeXLinkMargin=\dimen130
 \Fld@menulength=\count111
-\Field@Width=\dimen126
-\Fld@charsize=\dimen127
+\Field@Width=\dimen131
+\Fld@charsize=\dimen132
 Package hyperref Info: Hyper figures OFF on input line 6358.
 Package hyperref Info: Link nesting OFF on input line 6363.
 Package hyperref Info: Hyper index ON on input line 6366.
@@ -797,54 +809,54 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip48
+\Hy@SectionHShift=\skip50
 )
 (./Letter.aux)
 \openout1 = `Letter.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 43.
  (c:/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
 LaTeX Font Info:    Try loading font information for OT1+LinuxLibertineT-TLF on
- input line 39.
+ input line 43.
 
 (c:/texlive/2016/texmf-dist/tex/latex/libertine/ot1linuxlibertinet-tlf.fd
 File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 39.
+(Font)              scaled to size 10.95pt on input line 43.
 
 (c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count117
-\scratchdimen=\dimen128
-\scratchbox=\box30
+\scratchdimen=\dimen133
+\scratchbox=\box31
 \nofMPsegments=\count118
 \nofMParguments=\count119
-\everyMPshowfont=\toks27
+\everyMPshowfont=\toks28
 \MPscratchCnt=\count120
-\MPscratchDim=\dimen129
+\MPscratchDim=\dimen134
 \MPnumerator=\count121
 \makeMPintoPDFobject=\count122
-\everyMPtoPDFconversion=\toks28
+\everyMPtoPDFconversion=\toks29
 ) (c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -864,7 +876,7 @@ e
 ))
 \c@mv@tabular=\count123
 \c@mv@boldtabular=\count124
-LaTeX Info: Redefining \microtypecontext on input line 39.
+LaTeX Info: Redefining \microtypecontext on input line 43.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -913,7 +925,7 @@ Package microtype Info: Loading generic settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box31
+\AtBeginShipoutBox=\box32
 (c:/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
@@ -922,7 +934,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 39.
+Package hyperref Info: Link coloring ON on input line 43.
 
 (c:/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -932,70 +944,70 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count125
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
 
 (./Letter.out) (./Letter.out)
 \@outlinefile=\write3
 \openout3 = `Letter.out'.
 
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 41.
+(Font)              scaled to size 17.28pt on input line 45.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 41.
+(Font)              scaled to size 17.28pt on input line 45.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 45.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 41.
+(Font)              scaled to size 10.95pt on input line 45.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 42.
+(Font)              scaled to size 14.4pt on input line 46.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 42.
+(Font)              scaled to size 14.4pt on input line 46.
 
 (c:/texlive/2016/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 43.
+(Font)              scaled to size 8.0pt on input line 47.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 43.
+(Font)              scaled to size 9.0pt on input line 47.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 43.
+(Font)              scaled to size 6.0pt on input line 47.
 
 <OA.jpg, id=21, 542.025pt x 406.51875pt>
 File: OA.jpg Graphic file (type jpg)
  <use OA.jpg>
-Package pdftex.def Info: OA.jpg used on input line 52.
+Package pdftex.def Info: OA.jpg used on input line 58.
 (pdftex.def)             Requested size: 398.33858pt x 298.76598pt.
  [1
 
 {c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on
- input line 61.
+ input line 67.
 
 (c:/texlive/2016/texmf-dist/tex/latex/libertine/ts1linuxlibertinet-tlf.fd
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 61.
+(Font)              scaled to size 10.95pt on input line 67.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 66.
+(Font)              scaled to size 10.0pt on input line 72.
 LaTeX Font Info:    Try loading font information for OT1+LinuxLibertineMonoT-TL
-F on input line 66.
+F on input line 72.
 
 (c:/texlive/2016/texmf-dist/tex/latex/libertine/ot1linuxlibertinemonot-tlf.fd
 File: OT1LinuxLibertineMonoT-TLF.fd 2017/03/20 (autoinst) Font definitions for 
 OT1/LinuxLibertineMonoT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineMonoT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 66.
+(Font)              scaled to size 10.0pt on input line 72.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `LinuxLibertineMonoT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1004,28 +1016,28 @@ Package microtype Info: Character `~' is missing
 (microtype)             in font `OT1/LinuxLibertineMonoT-TLF/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
-[2 <./OA.jpg>] [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
+[2 <./OA.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
  (./Letter.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
 Package rerunfilecheck Info: File `Letter.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 10236 strings out of 493013
- 161283 string characters out of 6136993
- 273593 words of memory out of 5000000
- 13506 multiletter control sequences out of 15000+600000
- 36385 words of font info for 117 fonts, out of 8000000 for 9000
+ 10477 strings out of 493013
+ 164249 string characters out of 6136993
+ 280621 words of memory out of 5000000
+ 13754 multiletter control sequences out of 15000+600000
+ 35901 words of font info for 114 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,8n,54p,1684b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,8n,54p,1607b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2016/texmf-dist/fonts/enc/dvips/libertine/lbtn_3dk467.enc}{c:/tex
 live/2016/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{c:/texlive/2016
 /texmf-dist/fonts/enc/dvips/libertine/lbtn_kijugd.enc}{c:/texlive/2016/texmf-di
@@ -1036,10 +1048,10 @@ lic/libertine/LinLibertineMT.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public
 ertine/LinLibertineTB.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/libert
 ine/LinLibertineTI.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/eurosym/f
 eymr10.pfb>
-Output written on Letter.pdf (3 pages, 346627 bytes).
+Output written on Letter.pdf (2 pages, 346274 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
+ 78 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
  26118 words of extra memory for PDF output out of 29859 (max. 10000000)
 
