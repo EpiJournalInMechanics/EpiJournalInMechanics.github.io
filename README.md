@@ -40,9 +40,13 @@ For the success of this initiative the involvement of Scholarly Socities is of p
 It is also worth noting that the present letter has been sent to the following Scholarly Societies: IUTAM, IACM, EUROMECH, EASD, MECAMAT, AFM, CSMA, ECCOMAS, and CNFM. All the answers will be made publicly available at the address: .
 
 On behalf of the Loomio members supporting the creation of Overlay Journals in Mechanics,
+
 Vincent Acary, INRIA, France
+
 Mathias Legrand, McGill University, Canada
+
 Maurine Montagnat, CNRS, France
+
 Vladislav Yastrebov, CNRS, MINES ParisTech, France
 
 [1] [Definition of APC on Wikipedia](https://en.wikipedia.org/wiki/Article_processing_charge)
