@@ -41,13 +41,16 @@ It is also worth noting that the present letter has been sent to the following S
 
 On behalf of the Loomio members supporting the creation of Overlay Journals in Mechanics,
 
-Vincent Acary, INRIA, France
+[Vincent Acary](http://bipop.inrialpes.fr/people/acary), INRIA  Senior scientist in computational mechanics and dynamics, France. 
 
-Mathias Legrand, McGill University, Canada
+[Francois Gibier](http://www.lmgc.univ-montp2.fr/spip.php?page=pageperso&nom=GIBIER&prenom=Fran%C3%A7ois), Librarian, University of Montpellier (LMGC), France 
 
-Maurine Montagnat, CNRS, France
+[Mathias Legrand](http://www.mcgill.ca/mecheng/people/staff/mathias-legrand), McGill University, Assistant Professor in Mechanical Engineering, Canada. 
 
-Vladislav Yastrebov, CNRS, MINES ParisTech, France
+[Maurine Montagnat](http://www.ige-grenoble.fr/maurine-montagnat-rentier), CNRS  Senior scientist in Mechanics of materials, glaciology, France. 
+
+[Vladislav Yastrebov](http://www.yastrebov.fr), CNRS research scientist in computational solid mechanics, MINES ParisTech, France.
+
 
 [1] [Definition of APC on Wikipedia](https://en.wikipedia.org/wiki/Article_processing_charge)
 
