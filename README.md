@@ -1,6 +1,8 @@
 For Overlays Jourmals in Mechanics
 ==================================
 
+[pdf version of the letter](https://github.com/EpiJournalInMechanics/Documents/blob/master/Letter/Letter.pdf)
+
 The purpose of this letter is to raise awareness about *Overlay Journal* publications among the scholarly communities in Mechanics. Relevant hyperlinks are given as footnotes.
 
 Problem
