@@ -1,17 +1,20 @@
+For Overlays Jourmals in Mechanics
+==================================
+
 The purpose of this letter is to raise awareness about *Overlay Journal* publications among the scholarly communities in Mechanics. Relevant hyperlinks are given as footnotes.
 
 Problem
-=======
+-------
 
 How is all this possible? Tomorrow, researchers will have to pay in order to publish! The Gold Open Access model with Article Processing Charge (APC) seems to expand rapidly in our communities. This publication process uses a business model based on individual articles for which their authors pay fees for publication.[1]
 
 Public finances
-===============
+---------------
 
 This model will have dramatic consequences on universities’ and research institutes’ budgets, and more generally on public finances. For instance in France, CNRS currently spends about M/year in library resources, amount that is expected to reach M/year in case Gold Access with APC becomes the preferred avenue for publishing.[2] Similar numbers are provided by McGill’s library concerning the subscription to journals and electronic resources.[3] Moreover, the H2020 program promotes Open Access in the general sense (with or without APC) that could have an harmful side-effect in case no alternative to APC is available. The fact that APC are eligible expenses to be listed in proposals of H2020 is a consequence of this ambiguity. Some of you might think that overall APC count as a minor fraction of research expenses. This is probably true. However, financial savings at the scale of a country are not negligible if a publication process free of charges for both authors and readers, in agreement with the Diamond Open Access Policy,[4] is implemented.
 
 Open Access, sustainable research and Overlay Journals
-======================================================
+------------------------------------------------------
 
 As our colleagues in Mathematics, Computer Science and Human Sciences have already understood,[5][6] Overlay Journals (also called *Epijournals*) are the way to go! Overlay journals are purely open access electronic journals solely fed by articles that are deposited on Open Archives (arXiv, HAL, engrXiv...) and not already published elsewhere. The review procedure, undertaken by the editorial team of the Overlay Journal together with designated reviewers, is of high quality[7]. This virtuous framework induces a minimal cost to society and taxpayers while publications (and possibly attendant data) are always openly accessible on the long run with permanent url links. Technical challenges are minimal since appropriate platforms already exist. As an example, the Episciences initiative[8] provides technical support for peer-reviewing activities which are supervised by editorial boards. To summarize, Overlay Journals add value to Open Archives by assigning a scientific caution to the accepted papers. Overlay Journals ensure the same Diamond OA but at much smaller expenses of public funds and are open to everyone who conducts a high quality research irrespective of research funds of the individual. Other benefits of Diamond Open Access are summarized in Figure [fig:OA].
 
@@ -20,12 +23,12 @@ As our colleagues in Mathematics, Computer Science and Human Sciences have alrea
 [fig:OA]
 
 And the Mechanics community?
-============================
+----------------------------
 
 It is now critical that the mechanics community thinks about a full open access model to publish the outcomes of research, and more specifically about the creation of Overlay Journals in various subfields of Mechanics. Lately, this question generated a strong interest as it is witnessed by the fruitful discussion[9] on Loomio, an online tool increasing transparency and inclusion to reach decisions.
 
 Next steps and questions to the Scholarly Society
-=================================================
+-------------------------------------------------
 
 For the success of this initiative the involvement of Scholarly Socities is of paramount importance. It would greatly simplify the creation of Overlay Journals and blow a wind of change able to completely redraw the arcane of publishing. As a first step, an international editorial board should now be created and we would welcome a formal reply to the questions posed below. This Overlay Journal item could be discussed during your next steering committee.
 
