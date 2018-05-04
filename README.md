@@ -73,3 +73,4 @@ On behalf of the Loomio members supporting the creation of Overlay Journals in M
 
 [9] [Loomio discussion on Overly Journals in Mechanics](https://www.loomio.org/invitations/aa0a97be9a80ba509623)
 
+
