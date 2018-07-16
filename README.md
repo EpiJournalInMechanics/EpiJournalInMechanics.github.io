@@ -1,6 +1,8 @@
 For Overlays Jourmals in Mechanics
 ==================================
 
+[pdf version of the letter](https://github.com/EpiJournalInMechanics/Documents/blob/master/Letter/Letter.pdf)
+
 The purpose of this letter is to raise awareness about *Overlay Journal* publications among the scholarly communities in Mechanics. Relevant hyperlinks are given as footnotes.
 
 Problem
@@ -71,6 +73,6 @@ On behalf of the Loomio members supporting the creation of Overlay Journals in M
 
 [8] [épisciences.org Website](https://www.episciences.org/?lang=en)
 
-[9] [Loomio discussion on Overly Journals in Mechanics](https://www.loomio.org/invitations/aa0a97be9a80ba509623)
+[9] [Loomio discussion on Overly Journals in Mechanics](https://www.loomio.org/g/yPoIWNc5/for-an-epi-journal-in-mechanics)
 
 
